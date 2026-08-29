@@ -11,12 +11,14 @@
   "watermarkSize": 24,
   "watermarkPosition": "bottom-right",
   "theme": "system",
-  "cdn": "jsdmirror",
+  "cdn": "github",
   "useRaw": true,
   "copyFormat": "url",
   "autoCopyAfterUpload": true,
   "useOriginalFileName": false,
   "convertToWebp": false,
   "configPath": ".imgx-config/config.json",
-  "autoSync": true
+  "autoSync": true,
+  "lastSyncAt": "2026-08-29T12:28:41.407Z",
+  "sha": "1bb9822c0aa267faf90cb3e761aeddba00784777"
 }
