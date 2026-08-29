@@ -1,0 +1,22 @@
+{
+  "owner": "pyc622",
+  "repo": "img.shenzjd.com",
+  "branch": "main",
+  "directory": "",
+  "compressionEnabled": false,
+  "compressionQuality": 80,
+  "watermarkEnabled": true,
+  "watermarkText": "by img.shenzjd.com",
+  "watermarkColor": "#ffffff",
+  "watermarkSize": 24,
+  "watermarkPosition": "bottom-right",
+  "theme": "system",
+  "cdn": "jsdmirror",
+  "useRaw": true,
+  "copyFormat": "url",
+  "autoCopyAfterUpload": true,
+  "useOriginalFileName": false,
+  "convertToWebp": false,
+  "configPath": ".imgx-config/config.json",
+  "autoSync": true
+}
